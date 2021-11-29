@@ -11,12 +11,12 @@ A website to facilitate and support small scale farmers in Africa
 - A static site with a simple but atractive design
 - A clearly defined route to submit articles
 
-# Design principles
-- Mobile first
-- Light
-- Javascript for progressive enhancement only
-- Clean and simple look
-- extendable
+# Design goals
+- Works well on smartphones (mobile first)
+- Uses as little data as possible (Light)
+- Works well even on old phones and cheap phones
+- Simple design
+- Can be extended to add new features
 
 # Purpose of the site
 The aim of this site is to help anybody who grows crops or keeps animals for food or for income to produce plentifully, at the same time as looking after the people around them, the land, the air, the water, and the wild life, in a way that leaves them better tomorrow than today.

@@ -1,5 +1,8 @@
 # Farmer forums africa
-A website to facilitate and support small scale farmers in Africa
+A website for small scale farmers in Africa
+
+Link: [farmerforums.africa](http://www.farmerforums.africa)
+
 
 # TODO:
 - Define the purpose of the site in greater detail
@@ -8,7 +11,7 @@ A website to facilitate and support small scale farmers in Africa
 # MVP
 - A clearly defined purpose
 - Several high quality pages
-- A static site with a simple but atractive design
+- A static site with a simple but atractive design, including audio 
 - A clearly defined route to submit articles
 
 # Design goals
@@ -26,4 +29,8 @@ To achieve this we want to be:
 - A website where people help and support each other.
  
 # Languages
-At first the website will be in English, but should aim to use simple, plain language. I would like to use other languages as soon as possible. I am also thinking of other ideas to make it easy to access, like using audio recordings.
+At first the website will be in English, but should aim to use simple, plain language, with audio recordings. I would like to use other languages as soon as possible. Strong contenders are French, and Swahili, to reach a wide audience.
+
+# Getting involved
+If you would like to get involved in this project, please contact me (Ben Latham) 
+
